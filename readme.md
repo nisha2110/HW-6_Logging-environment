@@ -12,7 +12,7 @@
 - create .env file 
  - ENVIRONMENT=DEVELOPMENT
  - DATABASE_USERNAME=root
-
+ 
 - we learn to create a .env file to store these variables locally and ensure that this file is added to .gitignore to prevent it from being accidentally pushed to GitHub. This practice protects sensitive information and helps maintain security in our projects. 
 7. Logging:
 - Adding logging functionality to our program will allow us to track application behavior, monitor usage, and debug more effectively. Unlike simple print statements, logging can provide more structured and detailed output.
